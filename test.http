@@ -1,0 +1,7 @@
+
+###All items
+GET http://localhost:5000/items HTTP/1.1
+
+
+###Single item
+GET http://localhost:5000/items/1 HTTP/1.1
