@@ -8,7 +8,7 @@ This is a demo project used for the understanding of the basis of the fastify fr
 
 `npm init -y` --> Creating a basic node package.json <br>
 `npm i fastify` --> Installing fastify framework <br>
-` npm i @fastify/swagger @fastify/swagger-ui` --> Installing automated openAPI specification via swagger<br>
+`npm i @fastify/swagger @fastify/swagger-ui` --> Installing automated openAPI specification via swagger<br>
 `npm i uuid` --> For automated IDs when adding elements <br>
 `npm i -D nodemon` --> Auto-updating server given changes
 
