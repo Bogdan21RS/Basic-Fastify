@@ -10,9 +10,10 @@ This is a demo project used for the understanding of the basis of the fastify fr
 `npm i fastify` --> Installing fastify framework <br>
 `npm i @fastify/swagger @fastify/swagger-ui` --> Installing automated openAPI specification via swagger<br>
 `npm i uuid` --> For automated IDs when adding elements <br>
-`npm i -D nodemon` --> Auto-updating server given changes
+`npm i -D nodemon` --> Auto-updating server given changes <br>
+`npm i --save-dev @types/node` --> Auto-updating server given changes <br>
 
-Compressed command: `npm i fastify @fastify/swagger @fastify/swagger-ui uuid & npm i -D nodemon`
+Compressed command: `npm i fastify @fastify/swagger @fastify/swagger-ui uuid & npm i -D nodemon & npm i --save-dev @types/node`
 
 ### package.json modifications
 
